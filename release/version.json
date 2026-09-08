@@ -2,5 +2,5 @@
   "latest_version": "1.0.0",
   "force_update": false,
   "release_notes": "Initial release",
-  "apk_url": "https://github.com/mrinder8787/mrd_apk/blob/main/download/mrd_apk/app-release.apk"
+  "apk_url": "https://github.com/mrinder8787/mrd_apk/releases/download/v1/app-release.apk"
 }
