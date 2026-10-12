@@ -1,6 +1,12 @@
 {
-  "latest_version": "1.0.11",
+  "latest_version": "1.0.14",
   "force_update": false,
   "release_notes": "Initial release",
+  "bill_round_open_N":true,
+  "bill_round_open_B":true,
+  "bill_round_open_date_N":"2026-10-10",
+  "bill_round_close_date_N":"2026-11-30",
+  "bill_round_open_date_B":"2026-10-10",
+  "bill_round_open_date_B":"2026-11-10",
   "apk_url": "https://github.com/mrinder8787/mrd_apk/releases/download/v1/app-release.apk"
 }
